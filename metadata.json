@@ -1,0 +1,6 @@
+{
+  "name": "ArcadeZip — Sandbox & Émulateur Multi-Moteurs",
+  "description": "Glissez-déposez des archives ZIP de jeux (JS, HTML, CSS, Python, Lua, C#, C++, WebAssembly) et exécutez-les instantanément dans le navigateur avec support complet des assets PNG, JPEG, GLB, GLTF, OBJ, MP3, WAV, JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
